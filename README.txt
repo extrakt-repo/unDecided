@@ -1,1 +1,1 @@
-An app with no creativity at all. Don't mind it yet.
+Basically, this is an app for another app that I am working on. Need some ideas for the other app, so I am making this one.
